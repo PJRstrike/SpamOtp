@@ -1,6 +1,6 @@
 # 🚀 Spammer OTP WhatsApp
 
-**Premium OTP Spammer dengan 39 API WhatsApp**  
+**Premium OTP Spammer dengan 39 API WhatsApp**
 **Sistem Manajemen Lisensi Terenkripsi**
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 📌 Tentang
 
-**Spammer OTP WhatsApp** adalah tools profesional untuk spam OTP WhatsApp dengan **39 API**.  
+**Spammer OTP WhatsApp** adalah tools profesional untuk spam OTP WhatsApp dengan **39 API**.
 Dilengkapi dengan **sistem manajemen lisensi** menggunakan **Supabase** sebagai database backend.
 
 ---
@@ -48,9 +48,9 @@ termux-setup-storage
 pkg install python git -y
 
 # 4. Clone repository
-git clone https://github.com/him0x/otp
+git clone https://github.com/PJRstrike/SpamOtp
 
-cd otp
+cd SpamOtp
 
 # 5. Install dependencies
 pip install -r requirements.txt
